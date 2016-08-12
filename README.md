@@ -1,6 +1,6 @@
 # AndroidSetImageByURL
 In this Tutorial I am sharing two java files which will be used to set Image to ImageView from url
-
+put both file in your project
 Usage :
 
 SetImage.url(imageview,url);
